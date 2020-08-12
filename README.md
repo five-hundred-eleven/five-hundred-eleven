@@ -1,4 +1,11 @@
-### Hi there 👋
+My name is Erik. I am enrolled in Lambda School's Data Science program and am seeking Data Scientist, Data Analyst or Data Engineer position anywhere in the US.
+
+Here are some of my recent blog posts:
+* [County Voting](https://datascience.stromsy.com/2020-07-28-county-voting/) an analysis of voting patterns in the 2016 election.
+* [DBSCAN](https://datascience.stromsy.com/2020-06-24-dbscan/) a summary of my implementation of the DBSCAN algorithm.
+* [AirBnB Price Optimizer](https://datascience.stromsy.com/2020-02-07-AirBnB-Price-Optimizer/) a summary of a group project in which I created a model to predict housing prices in Berlin
+* [Twitoff](https://datascience.stromsy.com/2020-01-31-Twitoff/) a summary of a web app that predicts which twitter account is more likely to tweet a given block of text
+* [UFC Fight Predictions](https://datascience.stromsy.com/2020-01-10-UFC-Predictions/) a summary of a web app that predicts which UFC fighter would be more likely to win
 
 <!--
 **ekoly/ekoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
