@@ -1,4 +1,4 @@
-My name is Erik. I am enrolled in Lambda School's Data Science program and am seeking a Data Scientist, Data Analyst or Data Engineer position anywhere in the US.
+My name is Erik. I am an experienced Python developer enrolled in Lambda School's Data Science program and am seeking a Data Scientist, Data Analyst or Data Engineer position anywhere in the US.
 
 Here are some of my recent blog posts:
 * [County Voting](https://datascience.stromsy.com/2020-07-28-county-voting/) an analysis of voting patterns in the 2016 election.
