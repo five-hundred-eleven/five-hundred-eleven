@@ -1,8 +1,8 @@
 My name is Erik. I am a Python developer with an interest in Data Science.
 
-I apologize for my account name (ask me about it). Changing it would break a bunch of stuff.
+I apologize for my account name. Changing it would break a bunch of stuff.
 
-Here are some of my recent blog posts:
+Here are some blog posts:
 * [County Voting](https://datascience.stromsy.com/2020-07-28-county-voting/) an analysis of voting patterns in the 2016 election.
 * [DBSCAN](https://datascience.stromsy.com/2020-06-24-dbscan/) a summary of my implementation of the DBSCAN algorithm.
 * [AirBnB Price Optimizer](https://datascience.stromsy.com/2020-02-07-AirBnB-Price-Optimizer/) a summary of a group project in which I created a model to predict housing prices in Berlin
