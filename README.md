@@ -1,5 +1,7 @@
 My name is Erik. I am a Python developer with an interest in Data Science.
 
+Contact: <ecowley@protonmail.com>
+
 Here are some blog posts:
 * [County Voting](https://datascience.stromsy.com/2020-07-28-county-voting/) an analysis of voting patterns in the 2016 election.
 * [DBSCAN](https://datascience.stromsy.com/2020-06-24-dbscan/) a summary of my implementation of the DBSCAN algorithm.
