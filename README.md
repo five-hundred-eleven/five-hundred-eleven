@@ -1,6 +1,7 @@
 My name is Erik. I am a Python developer with an interest in Data Science.
 
 Here are some of my blog posts:
+* [Ghostland Game](https://blog.stromsy.com/snowland-game/) A 3D opengl maze crawling game.
 * [Goland Game](https://blog.stromsy.com/goland-game/) A 90s style 3D game engine written in Go with SDL2.
 * [KV Server](https://blog.stromsy.com/kv-server/) A Redis-style server implementation written in C/Python, from the socket level up.
 * [B-Plus Tree](https://blog.stromsy.com/kv-server/) A B-Plus tree implementation written in C/Python.
